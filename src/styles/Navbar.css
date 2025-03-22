@@ -1,0 +1,47 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 50px;
+    background-color: white;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  .logo-container {
+    display: flex;
+    align-items: center;
+  }
+  
+  .logo-image {
+    width: 40px; /* Adjust the size as needed */
+    height: auto;
+    margin-right: 10px;
+  }
+  .logo{
+    font-weight: bold;
+  }
+  
+  .navbar a {
+    text-decoration: none;
+    color: #333;
+    margin: 0 15px;
+    font-weight: 600;
+  }
+  
+  .navbar .buttons button {
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .navbar .login {
+    background-color: #d4f8c7;
+    margin-right: 10px;
+  }
+  
+  .navbar .demo {
+    background-color: #4caf50;
+    color: white;
+  }
+  

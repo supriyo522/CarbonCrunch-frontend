@@ -1,0 +1,42 @@
+.stats-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    padding: 20px;
+  }
+  
+  .stat-card {
+    flex: 1;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+    min-width: 220px;
+  }
+  
+  .stat-card h2 {
+    font-size: 32px;
+    font-weight: bold;
+  }
+  
+  .stat-card p {
+    font-size: 14px;
+    margin-top: 5px;
+  }
+  
+  /* Background Colors */
+  .dark {
+    background-color: #222;
+    color: white;
+  }
+  
+  .green {
+    background-color: #22aa22;
+    color: black;
+  }
+  
+  .light {
+    background-color: #f0f0f0;
+    color: #333;
+  }
+  

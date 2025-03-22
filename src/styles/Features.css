@@ -1,0 +1,33 @@
+.features {
+    padding: 50px;
+    background-color: #f0f0f0;
+    /* text-align: center; */
+  }
+  
+  .features h2 {
+    color: #333;
+    font-size: 2rem;
+  }
+  
+  .feature-cards {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+  }
+  
+  .feature-card {
+    background: white;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    flex: 1 1 300px; /* Responsive */
+    max-width: 300px;
+  }
+  
+  .feature-image img {
+    width: 60px;
+    height: 60px;
+    border-radius: 10px;
+  }
+  

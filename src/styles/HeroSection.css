@@ -1,0 +1,50 @@
+.hero {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 50px;
+    background-color: white;
+  }
+ 
+  .hero-text h1 {
+    font-size: 36px;
+    font-weight: bold;
+  }
+
+  .hero-text span {
+    color: #ff9800;
+  }
+ 
+  
+  /* Styling for the "Let's Save our Environment" button */
+  .environment-btn {
+    background-color: black;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 50px; /* Fully rounded corners */
+    font-size: 16px;
+    font-weight: 600;
+    cursor: pointer;
+  }
+  
+  .hero-text .cta-buttons button {
+    padding: 12px 20px;
+    border: none;
+    margin: 10px 5px;
+    cursor: pointer;
+  }
+  
+  .hero-text .free-calc {
+    background-color: white;
+    border: 2px solid #4caf50;
+    color: #4caf50;
+  }
+  
+  .hero-text .book-demo {
+    background-color: #4caf50;
+    color: white;
+  }
+  
+
+  

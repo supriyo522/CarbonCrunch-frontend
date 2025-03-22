@@ -7,12 +7,12 @@ const Services = () => {
     <>
  
     <section className="services-container">
-      {/* Left Side - Image */}
+    
       <div className="services-image">
         <img src={Flower} alt="Carbon Services" />
       </div>
 
-      {/* Right Side - Content */}
+  
      
       <div className="services-content">
       <p style={{color:"#4caf50",padding:"20px",fontWeight:"bold"}}>OUR SERVICES</p>

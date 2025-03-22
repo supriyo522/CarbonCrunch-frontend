@@ -7,7 +7,7 @@
     background-color: white;
   }
   
-  /* Left Side - Image */
+
   .services-image {
     flex: 1;
   }
@@ -18,7 +18,7 @@
     border-radius: 10px;
   }
   
-  /* Right Side - Content */
+
   .services-content {
     flex: 1;
   }

@@ -23,7 +23,7 @@ const Features = () => {
             </div>
             <div className="feature-text">
               <h3>Automated Data Collection</h3>
-              <p>Our system automates carbon data collection, saving time and reducing errors.</p>
+              <p>Our system automates carbon data collection, saving time, reducing errors, and ensuring accurate sustainability reporting.</p>
             </div>
           </div>
 
@@ -34,7 +34,7 @@ const Features = () => {
             </div>
             <div className="feature-text">
               <h3>Monitoring & Reporting</h3>
-              <p>Effortlessly track and report carbon emissions with automated monitoring.</p>
+              <p>Effortlessly track and report carbon emissions with automated monitoring, ensuring accuracy and compliance in sustainability reporting.</p>
             </div>
           </div>
 
@@ -44,8 +44,8 @@ const Features = () => {
               <img src={Thirdimg} alt="AI-Driven Insights" />
             </div>
             <div className="feature-text">
-              <h3>AI-Driven Insights</h3>
-              <p>Leverage AI to uncover hidden patterns and optimize sustainability strategies.</p>
+              <h3>Monitoring & Reporting</h3>
+              <p>Effortlessly track and report carbon emissions with automated monitoring, ensuring accuracy and compliance in sustainability reporting.</p>
             </div>
           </div>
 
@@ -55,8 +55,8 @@ const Features = () => {
               <img src={Fourthimg} alt="Real-Time Dashboard" />
             </div>
             <div className="feature-text">
-              <h3>Real-Time Dashboard</h3>
-              <p>Gain instant insights into carbon footprints with a dynamic dashboard.</p>
+              <h3>Simplified Certification process</h3>
+              <p>Streamline your certification process with our simplified, automated solution, reducing complexity and ensuring faster compliance.</p>
             </div>
           </div>
 
@@ -66,8 +66,8 @@ const Features = () => {
               <img src={Fifthimg} alt="Compliance Assurance" />
             </div>
             <div className="feature-text">
-              <h3>Compliance Assurance</h3>
-              <p>Stay compliant with industry regulations and environmental standards.</p>
+              <h3>AI-Driven Insights</h3>
+              <p>Leverage AI-driven insights to uncover hidden patterns, optimize sustainability strategies, and drive impactful decision-making.</p>
             </div>
           </div>
 
@@ -77,8 +77,8 @@ const Features = () => {
               <img src={Sixthimg} alt="Custom Reports" />
             </div>
             <div className="feature-text">
-              <h3>Custom Reports</h3>
-              <p>Generate tailored reports to meet specific business and sustainability goals.</p>
+              <h3>AI-Driven Insights</h3>
+              <p>Leverage AI-driven insights to uncover hidden patterns, optimize sustainability strategies, and drive impactful decision-making.</p>
             </div>
           </div>
 

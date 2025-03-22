@@ -28,7 +28,7 @@ const Features = () => {
           </div>
 
           {/* Feature 2 */}
-          <div className="featuregit initcard">
+          <div className="feature-card">
             <div className="feature-image">
               <img src={Secondimg} alt="Monitoring & Reporting" />
             </div>
